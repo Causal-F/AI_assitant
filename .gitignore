@@ -1,0 +1,15 @@
+# 密钥 / Secrets
+.env
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 运行时日志（token 用量记录）
+token_usage_log.jsonl
+
+# 虚拟环境
+ai_assistant/
+
+# Streamlit
+.streamlit/secrets.toml
